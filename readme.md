@@ -12,7 +12,7 @@
 
 ### 6/100 - 10 Aug ###
 
-I finally had a proper chunck to time to think about this. I finally worked out how roman numerals work - if the letter value is more than the next letter you add the value to the total, and if its less than the next, you subtract it.
+I finally had a proper chunk to time to think about this. I finally worked out how roman numerals work - if the letter value is more than the next letter you add the value to the total, and if its less than the next, you subtract it.
 
 Here is the solution I came up with.
 
