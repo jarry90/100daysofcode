@@ -21,7 +21,9 @@ I went away with the family, so I took the weekend off. Today I created this rep
 I continued the roman numeral decoder kata in python... haven't fully worked out roman numerals yet - will finish tomorrow.
 
 I watched a few YouTube videos;
+
 [Make MEMORY GAME in JavaScript, HTML and CSS for your portfolio](https://www.youtube.com/watch?v=W1GKhapHBB4)
+
 [Have you done these 4 THINGS?? - Getting a job as a Software Developer](https://www.youtube.com/watch?v=JxUDdUU6N6k)
 
 My plan to hit it hard has failed, but something is something. Hopefully get more done tomorrow!
